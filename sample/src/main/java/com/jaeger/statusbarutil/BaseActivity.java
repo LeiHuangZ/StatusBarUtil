@@ -1,5 +1,7 @@
 package com.jaeger.statusbarutil;
 
+import android.content.Intent;
+import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import com.jaeger.library.StatusBarUtil;
 import com.jaeger.statusbardemo.R;
